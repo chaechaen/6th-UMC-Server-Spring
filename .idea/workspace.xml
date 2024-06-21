@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="759f04da-378a-4b68-8c4d-0356bb54cb11" name="Changes" comment="" />
+    <list default="true" id="759f04da-378a-4b68-8c4d-0356bb54cb11" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,7 +52,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/umc/6th-UMC-Server-Spring/jpashop",
+    "last_opened_file_path": "C:/umc/spring-study/ex-jpashop",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -93,6 +95,7 @@
       <workItem from="1715189803466" duration="363000" />
       <workItem from="1715265985577" duration="1841000" />
       <workItem from="1717061467956" duration="565000" />
+      <workItem from="1718955150567" duration="177000" />
     </task>
     <servers />
   </component>
